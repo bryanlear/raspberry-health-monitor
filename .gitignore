@@ -1,0 +1,7 @@
+.aqt-cache/
+.aqt-settings.ini
+.aqt-tmp/
+.venv-fritzing-build/
+external/
+fritzing_parts/
+aqtinstall.log
