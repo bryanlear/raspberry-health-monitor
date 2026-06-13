@@ -30,3 +30,5 @@ KY-016 G → GPIO23 / physical pin 16
 KY-016 B → GPIO24 / physical pin 18
 KY-016 - → GND
 ```
+
+---
